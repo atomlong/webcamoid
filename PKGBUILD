@@ -6,7 +6,7 @@ pkgrel=2
 pkgdesc="Webcamoid is a full featured webcam capture application."
 url='https://webcamoid.github.io/'
 license=('GPL')
-arch=('i686' 'x86_64' 'armv6h')
+arch=('i686' 'x86_64' 'arm' 'armv6h' 'armv7h' 'aarch64')
 depends=('qt5-quickcontrols'
          'qt5-quickcontrols2'
          'qt5-svg')
